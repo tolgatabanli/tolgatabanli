@@ -1,7 +1,8 @@
 # Welcome, here is the programming lab of @tolgatabanli.
-### WARNING! U may find some info abt me:
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently developing my Java, Python and R skills.
+### Some info on me:
+- 👀 Studying bioinformatics
+- 🌱 Currently developing my Java, Python and R skills.
+- 🍎 Tutor for a data science course in R
 - 📫 reach me at tolgatabanli@gmail.com
 
 <!---
