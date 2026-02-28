@@ -1,8 +1,6 @@
 # Welcome, here is the programming lab of @tolgatabanli.
 ### Some info abt me:
-- 👀 Studying bioinformatics
-- 🌱 Honing my Java, Python and R skills
-- 🍎 Tutoring in Bioinformatics and Data Science courses
+- 👀 in progress: B.Sc. Bioinformatics
 
 ## 🔗 Contact
 
@@ -16,9 +14,7 @@
 
 ## 📌 Currently Learning
 
-- 🔧 Docker and container orchestration
-- 🧠 Deep learning for biological sequence modeling
-- 📚 Advanced statistical modeling in R
+- scRNA sequencing and deconvolution
 
 ---
 ## 💻 Skills
