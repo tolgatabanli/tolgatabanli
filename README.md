@@ -19,6 +19,10 @@
 
 - scRNA sequencing and deconvolution
 
+## Projects Done
+- an R package R toolkit for constructing genomic windows from GTF/BED annotations, binning coverage signals, and metagene plots.
+
+
 ---
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
