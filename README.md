@@ -20,7 +20,7 @@
 - scRNA sequencing and deconvolution
 
 ## Projects Done
-- an R package R toolkit for constructing genomic windows from GTF/BED annotations, binning coverage signals, and metagene plots.
+- an R package for constructing genomic windows from GTF/BED annotations, binning coverage signals, and metagene plots.
 
 
 ---
