@@ -1,6 +1,9 @@
 # Welcome, here is the programming lab of @tolgatabanli.
 ### Some info abt me:
 - 👀 in progress: B.Sc. Bioinformatics
+- Member of Bioinformatics Munich Student Lab (BMSL)
+- engaged in the Student Council of Bioinformatics Munich
+- hobby pianist and composer
 
 ## 🔗 Contact
 
