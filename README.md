@@ -1,8 +1,9 @@
 # Welcome, here is the programming lab of @tolgatabanli.
 ### Some info abt me:
-- 👀 in progress: B.Sc. Bioinformatics
+- B.Sc. Bioinformatics
+- 👀 in progress: M.Sc. Bioinformatics
 - Member of Bioinformatics Munich Student Lab (BMSL)
-- engaged in the Student Council of Bioinformatics Munich
+- elected member of the Student Council of Bioinformatics Munich
 - hobby pianist and composer
 
 ## 🔗 Contact
@@ -12,15 +13,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgatabanli&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgatabanli&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook,tex)
 
 
 ## 📌 Currently Learning
 
-- scRNA sequencing and deconvolution
+- ...
 
 ## Projects Done
 - an R package for constructing genomic windows from GTF/BED annotations, binning coverage signals, and metagene plots.
+- single-cell reference-based cell-type deconvolution of artificial meat
 
 
 ---
