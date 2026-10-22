@@ -13,7 +13,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgatabanli&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook,tex)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgatabanli&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook,tex,javascript)
 
 
 ## 📌 Currently Learning
